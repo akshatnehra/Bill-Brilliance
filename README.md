@@ -1,5 +1,7 @@
 # PricingPageBuilderPro
 
+[User Manual](./USER%20MANUAL.pdf)
+
 ## Overview
 
 PricingPageBuilderPro is a robust platform designed to simplify the creation and management of pricing pages for SaaS businesses. This repository contains the source code and resources for deploying PricingPageBuilderPro on your domain or Linux server. With integrated payment processors, customizable themes, A/B testing, and more, PricingPageBuilderPro streamlines your pricing strategies for optimal conversions.
